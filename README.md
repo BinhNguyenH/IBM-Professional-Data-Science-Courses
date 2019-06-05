@@ -1,1 +1,1 @@
-# IBM-professional-data-science-course
+# IBM-professional-data-science-courses
