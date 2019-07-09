@@ -11,7 +11,7 @@ https://nbviewer.jupyter.org/github/BinhNguyenH/IBM-Professional-Data-Science-Co
 
 https://nbviewer.jupyter.org/github/BinhNguyenH/IBM-Professional-Data-Science-Courses/blob/master/DS_ML_Regression.ipynb
 
-https://nbviewer.jupyter.org/github/BinhNguyenH/IBM-Professional-Data-Science-Courses/blob/master/DS_Recommendation_Systems.ipynb
+https://nbviewer.jupyter.org/github/BinhNguyenH/IBM-Professional-Data-Science-Courses/blob/master/DS_ML_Recommendation_Systems.ipynb
 
 https://nbviewer.jupyter.org/github/BinhNguyenH/IBM-Professional-Data-Science-Courses/blob/master/DS_Python_1.ipynb
 
